@@ -1,4 +1,8 @@
-# CornerstoneVueWADO-Canvas-Demo
+# CornerstoneVueWADO-Canvas-Demo-V2
+
+Project "CornerstoneVueWADO-Canvas-Demo" next version.
+
+在渲染方式上做了一些调整。（图片和绘制分层渲染）
 
 > 一个基于 Cornerstone 解析并显示 Dicom 图像的 Vue 项目。在原项目上加上了绘制多边形的功能。 
 
